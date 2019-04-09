@@ -1,0 +1,28 @@
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\bin\Debug\WProyectoGuarderia.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\bin\Debug\WProyectoGuarderia.exe
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\bin\Debug\WProyectoGuarderia.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.Form1.resources
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.frmRegistro.resources
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.exe
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.frmSesion.resources
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\bin\Debug\WProyectoGuarderia.exe.config
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.exe
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.pdb
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\bin\Debug\WProyectoGuarderia.exe
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\bin\Debug\WProyectoGuarderia.pdb
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.csprojResolveAssemblyReference.cache
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.Form1.resources
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.frmRegistro.resources
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.frmSesion.resources
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.Properties.Resources.resources
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.csproj.GenerateResource.Cache
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.frmApoderado.resources
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.frmDirector.resources
+C:\Users\vlad\Desktop\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.frmDocente.resources
+C:\Users\boria_000\Desktop\Laboratorio 5\WProyectoGuarderia\WProyectoGuarderia\bin\Debug\WProyectoGuarderia.exe.config
+C:\Users\boria_000\Desktop\Laboratorio 5\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.exe
+C:\Users\boria_000\Desktop\Laboratorio 5\WProyectoGuarderia\WProyectoGuarderia\obj\Debug\WProyectoGuarderia.pdb
